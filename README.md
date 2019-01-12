@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
+an open source framework to help create apps in your GitHub workflow
 ## What it does
 
-FEATURES PLACEHOLDER
+- recognizes ways to contribute
+- establishes systems to organize contributions
+- sets expectations for contributions
 
 ## Getting started
 
